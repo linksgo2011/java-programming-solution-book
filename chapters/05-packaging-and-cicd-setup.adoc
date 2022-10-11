@@ -1,3 +1,3 @@
-= How to release software package and set up CI/CD?
+= How to Release Software Package and Set up CI/CD?
 
 

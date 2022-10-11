@@ -1,3 +1,3 @@
-= How to design core/SDK library?
+= How to Design Core/SDK Library?
 
 

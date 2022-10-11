@@ -1,1 +1,1 @@
-= How to design data dictionary solution?
+= How to Design Data Dictionary Solution?

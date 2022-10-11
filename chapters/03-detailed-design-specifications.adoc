@@ -1,1 +1,1 @@
-= How to write detailed design specification?
+= How to Write Detailed Design Specification?
