@@ -1,0 +1,29 @@
+== Introduction
+
+This repository presents some experience about java programming solutions to solve specific common problems.
+
+The big tech ground would be microservice and java tech stack. Some topics here would be discussed and written to text.
+
+- Microservice design
+- Basic CRUD operation for recommendation
+- Packaging
+- Authentication
+- Permission Design
+- ...
+
+We will focus on `How to` and `Why` rather than `Think in`, so each chapter may follow this pattern:
+
+. Problems or goals
+. Options
+. Common preferred solution
+. Examples
+
+About solutions, some principle I want to call out here:
+
+. Product ready and reliable are more important factors than others
+. Example should be common and useful for rework
+. Keep using the latest solution for the common problem
+. Keep copyright clean for avoiding disputes
+. Depth and seriousness
+
+In the end, hope this repository can help some for your daily work.

@@ -1,0 +1,47 @@
+= 《Java Programming Solution Book》
+:author: shaogefenhao
+:email: 12037783@qq.com
+:revnumber: 0.1
+:doctype: book
+:toc: left
+:toclevels: 2
+:toc-title: 《Java Programming Solution Book》
+:icons: font
+:imagesdir: ./chapters
+:data-uri:
+:lang: en
+:language: java
+
+[00-introduction]
+include::./chapters/00-introduction.adoc[]
+
+[01-verify-software-requirements]
+
+include::./chapters/01-verify-software-requirements.adoc[]
+
+[02-architectural-design-specification]
+include::./chapters/02-architectural-design-specification.adoc[]
+
+[03-detailed-design-specifications]
+include::./chapters/03-detailed-design-specifications.adoc[]
+
+[04-common-crud-solution]
+include::./chapters/04-common-crud-solution.adoc[]
+
+[05-packaging-and-cicd-setup]
+include::./chapters/05-packaging-and-cicd-setup.adoc[]
+
+[06-authentication]
+include::./chapters/06-authentication.adoc[]
+
+[07-core-library-and-sdk]
+include::./chapters/07-core-library-and-sdk.adoc[]
+
+[08-permission]
+include::./chapters/08-permission.adoc[]
+
+[09-data-dictionary]
+include::./chapters/09-data-dictionary.adoc[]
+
+[10-internationalization]
+include::./chapters/10-internationalization.adoc[]
